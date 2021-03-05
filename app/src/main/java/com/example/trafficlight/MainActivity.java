@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //sdf
         //sdfasdf
         //added by ys.
+        //add to master
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
