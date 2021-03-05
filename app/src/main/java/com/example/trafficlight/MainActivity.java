@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 //ssss
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //adbcdadsfadf
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
