@@ -5,13 +5,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-//ssss
     @Override
     //asdasdsad
     protected void onCreate(Bundle savedInstanceState) {
-        //sdf
-        //sdfasdf
         super.onCreate(savedInstanceState);
+        //hello
         setContentView(R.layout.activity_main);
     }
 }
