@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 String id = edit_id.getText().toString();
                 String password = edit_password.getText().toString();
 
-                Intent intent_1 = new Intent(getApplicationContext(), MapActivity.class);
+                Intent intent_1 = new Intent(getApplicationContext(), SignInActivity.class);
 
                 intent_1.putExtra("inputed_id",id);
                 intent_1.putExtra("inputed_password",password);
