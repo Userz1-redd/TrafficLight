@@ -104,7 +104,7 @@ public class MapActivity extends AppCompatActivity implements MapView.CurrentLoc
                 }
             }
         }
-    }
+    }//
     void checkRunTimePermission(){
 
         //런타임 퍼미션 처리
