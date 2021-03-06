@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView idText = (TextView) findViewById(R.id.idText);
+        TextView idText = (TextView) findViewById(R.id.idText);//
         TextView passwordText = (TextView) findViewById(R.id.passwordText);
 
         Intent intent = getIntent();
