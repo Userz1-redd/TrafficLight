@@ -18,11 +18,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrafficLight"
         android:usesCleartextTraffic="true">
-        <uses-library
-            android:name="com.google.android.wearable"
-            android:required="true" />
-
-
         <meta-data
             android:name="com.google.android.wearable.standalone"
             android:value="true" />
@@ -43,7 +38,7 @@
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"
-            android:value="API키" />
+            android:value="97e75e6cdeee669279a76fdcf5bf79d6" />
     </application>
 
 </manifest>
